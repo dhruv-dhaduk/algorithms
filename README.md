@@ -9,6 +9,9 @@
 - `main.cpp` at the root of the repo contains the unit tests and main function to execute them.
 - `You can only run this on UNIX based systems`, however, you can copy individual files to other systems and run them seperately.
 
+> [!TIP]
+> If you are using Windows, you can use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) to run the code.
+
 ### How to Compile and Run
 #### Requirements :
 - UNIX based system
